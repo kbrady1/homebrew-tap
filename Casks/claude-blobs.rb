@@ -1,6 +1,6 @@
 cask "claude-blobs" do
-  version "1.6.0"
-  sha256 "2c5408c178ccc35918b229fcbc18aac2d298a152b8b54234e5cba3d15f3ce635"
+  version "2.0.0"
+  sha256 "83caed86183888a521d3ce69ee4e246312ce1745f900a9880a09d5a51be832bd"
 
   url "https://github.com/kbrady1/ClaudeBlobs/releases/download/v#{version}/ClaudeBlobs-#{version}.dmg"
   name "ClaudeBlobs"
